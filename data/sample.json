@@ -1,0 +1,12 @@
+[
+  {
+    "review_id": "1234567890",
+    "username": "SampleUser",
+    "rating": 5,
+    "title": "Great App!",
+    "review_text": "Works perfectly and very easy to use.",
+    "date": "2024-01-01",
+    "country": "US",
+    "app_url": "https://apps.apple.com/us/app/example/id1234567890"
+  }
+]
